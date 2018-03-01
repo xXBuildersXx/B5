@@ -1,4 +1,4 @@
-# LandersPack Block 5 Textures
+# Launchers Pack Block 5 Textures
 Falcon 9 Block 5 textures for Launchers Pack mod for Kerbal Space Program
 
 # Installation:
